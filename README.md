@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, I am Gaurav! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+I am Gaurav Pawar, Currently I am working as Student ambassador at Kubesimplify, I am an aspiring Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
+
+
 
 <!--
 **GauravPawarGithub/GauravPawarGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
