@@ -1,9 +1,9 @@
 ## Hi, I am Gaurav! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-👋 Hey there, I'm Gaurav Pawar, a dedicated Information Technology undergraduate at Barkatullah University, Bhopal.🎓 Passionate about leveraging technology to solve real-world challenges, my journey has been an exciting exploration of coding, problem-solving, and the world of web development.💻
-
-As a former Student Ambassador at Kubesimplify, I played an integral role in raising awareness about cloud-native technologies, fostering a community of innovation and growth. ☁️ This experience honed my skills in DevOps and gave me insights into the dynamic realm of cloud computing. I understand computer networks, database management systems, operating systems, and software engineering principles. 🌐
-
+👋 Hey there, I'm Gaurav Pawar. I'm passionate about leveraging technology to solve real-world challenges. My journey has been an exciting exploration of coding, problem-solving, and the world of web development.💻
+🌱 I’m currently learning JavaScript, Data structures, algorithms, and exploring backend.
+🔭 I’m currently working on the Sorting visualizer 
+👯 I’m looking for internships, full-time, remote, onsite, software engineer roles
 Connect with me to collaborate, share insights, and embark on exciting ventures. 
 
 
